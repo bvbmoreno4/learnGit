@@ -1,4 +1,3 @@
-console.log('main.js');
 console.log('second main.js');
 console.log('third main.js');
 console.log('fourth main.js');
