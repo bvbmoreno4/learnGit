@@ -12,6 +12,8 @@ console.log('PCT-1000');
 console.log('PCT-1000');
 // changes due to feature one
 console.log('PCT-1001');
+// additional changes due to feature one
+console.log('PCT-1002');
 // changes to feature two
 console.log('PCT-1000');
 // additional changes to feature two
