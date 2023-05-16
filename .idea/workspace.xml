@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c196ac33-a9ec-47a6-b53f-f19f1ef9de07" name="Changes" comment="added feature three">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="c196ac33-a9ec-47a6-b53f-f19f1ef9de07" name="Changes" comment="- added feature_one">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684229413899</updated>
-      <workItem from="1684229414923" duration="378000" />
+      <workItem from="1684229414923" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="added feature">
       <created>1684229508767</created>
@@ -67,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684229724263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed all">
+      <created>1684229915936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684229915936</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- added feature_one">
+      <created>1684230007195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684230007195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +133,8 @@
     <MESSAGE value="added feature" />
     <MESSAGE value="added feature two" />
     <MESSAGE value="added feature three" />
-    <option name="LAST_COMMIT_MESSAGE" value="added feature three" />
+    <MESSAGE value="removed all" />
+    <MESSAGE value="- added feature_one" />
+    <option name="LAST_COMMIT_MESSAGE" value="- added feature_one" />
   </component>
 </project>
