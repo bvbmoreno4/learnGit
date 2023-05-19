@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c196ac33-a9ec-47a6-b53f-f19f1ef9de07" name="Changes" comment="added gitIgnore">
+    <list default="true" id="c196ac33-a9ec-47a6-b53f-f19f1ef9de07" name="Changes" comment="changes due to feature four">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature_one" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="ProjectId" id="2PryIEkI3q3fMW6cutEuhDd9wJj" />
   <component name="ProjectViewState">
@@ -37,7 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/cy/learnGitt&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/myCareerCypress/MyCareer_TA&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -55,6 +57,9 @@
       <option name="presentableId" value="Default" />
       <updated>1684229413899</updated>
       <workItem from="1684229414923" duration="709000" />
+      <workItem from="1684231714817" duration="180000" />
+      <workItem from="1684311143227" duration="10000" />
+      <workItem from="1684320714601" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="added feature">
       <created>1684229508767</created>
@@ -105,7 +110,42 @@
       <option name="project" value="LOCAL" />
       <updated>1684230906358</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changes due to feature one">
+      <created>1684231312359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684231312359</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changes due to main">
+      <created>1684231404894</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684231404894</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes due to feature two">
+      <created>1684231808962</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684231808962</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changes due to feature three">
+      <created>1684320773848</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684320773848</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changes due to feature four">
+      <created>1684320818571</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684320818571</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,19 +171,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -157,6 +185,11 @@
     <MESSAGE value="- added feature_one" />
     <MESSAGE value="fixed" />
     <MESSAGE value="added gitIgnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gitIgnore" />
+    <MESSAGE value="changes due to feature one" />
+    <MESSAGE value="changes due to main" />
+    <MESSAGE value="changes due to feature two" />
+    <MESSAGE value="changes due to feature three" />
+    <MESSAGE value="changes due to feature four" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes due to feature four" />
   </component>
 </project>
